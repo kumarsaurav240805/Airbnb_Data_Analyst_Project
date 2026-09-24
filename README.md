@@ -1,4 +1,4 @@
-1. Airbnb Data Analysis & Interactive Power BI Dashboard
+1.Airbnb Data Analysis & Interactive Power BI Dashboard
 
  The complete Airbnb data analytics project covered the analysis of listings, prices, room type, neighborhoods, reviews, availability,     host, booking habits, and house rules sentiment through Python, SQL, Statistics, and Power BI.
 
