@@ -1,8 +1,10 @@
 1. Airbnb Data Analysis & Interactive Power BI Dashboard
 
-The complete Airbnb data analytics project covered the analysis of listings, prices, room type, neighborhoods, reviews, availability, host, booking habits, and house rules sentiment through Python, SQL, Statistics, and Power BI.
+ The complete Airbnb data analytics project covered the analysis of listings, prices, room type, neighborhoods, reviews, availability,     host, booking habits, and house rules sentiment through Python, SQL, Statistics, and Power BI.
 
-3. Short Description / Purpose
+
+2.Purpose
+
 Airbnb Listing Data Analysis Project is based on the distribution of property, pricing, engagement, behavior of customers and hosts, availability and trends in neighborhoods.
 Python for Data Cleaning and Exploratory Data Analysis, SQL for Business Analysis, Statistical Data Analysis, Sentiment Analysis and Power BI visualization are used to make sense of the raw data from Airbnb.
 Python notebook has 102,599 rows and 26 columns in the analyzed dataset.
