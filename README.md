@@ -57,7 +57,7 @@ What is the correlation between price and review numbers?
 
 Is there any sentiment in house rules?
 
-6.Data Analysis with Python
+6.Data Analysis with Python & Key Findings
 
 The primary goal of this dashboard is to give an interactive visualization of Airbnb properties and their business attributes.
 Some of the capabilities of the dashboard include:
