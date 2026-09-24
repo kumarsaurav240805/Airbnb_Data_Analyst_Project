@@ -78,7 +78,7 @@ Comparing property types in different neighborhoods
 
 Detecting potential problem areas
 
-7. Aim of the Dashboard
+ 7.Aim of the Dashboard
    
 The primary goal of this dashboard is to give an interactive visualization of Airbnb properties and their business attributes.
 Some of the capabilities of the dashboard include:
