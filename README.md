@@ -6,20 +6,35 @@
 2.Purpose
 
 Airbnb Listing Data Analysis Project is based on the distribution of property, pricing, engagement, behavior of customers and hosts, availability and trends in neighborhoods.
+
 Python for Data Cleaning and Exploratory Data Analysis, SQL for Business Analysis, Statistical Data Analysis, Sentiment Analysis and Power BI visualization are used to make sense of the raw data from Airbnb.
+
 Python notebook has 102,599 rows and 26 columns in the analyzed dataset.
-4. Tech Stack
+
+3.Tech Stack
+
 The project utilizes the following technologies and tools:
+
 🐍 Python – Data analysis and preprocessing
+
 🔢 NumPy – Numerical computation
+
 🐼 Pandas – Data cleaning and analysis
+
 📊 Matplotlib – Data visualization
+
 📈 Seaborn – Statistical visualization
+
 🗄️ SQL/SQLite – Business analytics
+
 📐 Statistics/SciPy – Statistical and correlation analysis
+
 💬 TextBlob – House-rule sentiment analysis
+
 📊 Power BI – Dashboard and business reports
+
 🧮 DAX – Dashboard calculations and KPIs
+
  5. Data Source
 This data is sourced from the college I go to for an academic project. The data set has 102,599 rows and 26 columns. This data was used for data analysis, getting insights, and visualizations.
 5.🔹 Business Problem
